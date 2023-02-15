@@ -67892,7 +67892,7 @@ a2e(a){return a.gfa(a).hh(0,new A.aas(),t.N).aV(0,"&")},
 oE(){var s=0,r=A.a8(t.z),q=this,p,o
 var $async$oE=A.a9(function(a,b){if(a===1)return A.a5(b,r)
 while(true)switch(s){case 0:p=t.N
-o=A.agA("snbkrise@gmail.com",q.a2e(A.L(["subject","TRYHARD support","body","Hi!\nI have a question..."],p,p)),"mailto")
+o=A.agA("mytryhardapp@gmail.com",q.a2e(A.L(["subject","TRYHARD support","body","Hi!\nI have a question..."],p,p)),"mailto")
 s=5
 return A.aa(A.ack(o),$async$oE)
 case 5:s=b?2:4
