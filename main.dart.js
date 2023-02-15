@@ -53196,10 +53196,9 @@ case"TextInputClient.performPrivateCommand":n=t.a
 e=n.a(m.i(o,1))
 m=p.b.r
 l=J.av(e)
-k=A.aZ(l.i(e,"action"))
-l=n.a(l.i(e,"data"))
+A.aZ(l.i(e,"action"))
+n.a(l.i(e,"data"))
 m.a.toString
-null.$2(k,l)
 break
 case"TextInputClient.updateFloatingCursor":n=l.r
 l=A.ayn(A.aZ(m.i(o,1)))
@@ -67888,7 +67887,7 @@ A.y9.prototype={
 ao(){return new A.Ax(B.p)}}
 A.Ax.prototype={
 S(a){var s=null,r=t.l,q=this.ga4E(),p=t.p
-return A.SH(A.a([A.qN(s,a.Z(r).f.a.b/12,s),A.ajM("assets/logo.png",s,140,s),A.qN(s,a.Z(r).f.a.b/12,s),B.SM,B.O6,A.alI(A.a([A.afo(!1,!0,A.nZ("snbkrise@gmail.com",s,B.RB,s,s),s,!0,s,s,s,s,s,s,s,s,s,q,s,s,s,s),B.vX,A.ajJ(B.Ca,q,s),B.vX,A.ajJ(B.C9,this.ga1j(),s)],p),s,0)],p),B.bL,B.cK)},
+return A.SH(A.a([A.qN(s,a.Z(r).f.a.b/12,s),A.ajM("assets/logo.png",s,140,s),A.qN(s,a.Z(r).f.a.b/12,s),B.SM,B.O6,A.alI(A.a([A.afo(!1,!0,A.nZ("mytryhardapp@gmail.com",s,B.RB,s,s),s,!0,s,s,s,s,s,s,s,s,s,q,s,s,s,s),B.vX,A.ajJ(B.Ca,q,s),B.vX,A.ajJ(B.C9,this.ga1j(),s)],p),s,0)],p),B.bL,B.cK)},
 a2e(a){return a.gfa(a).hh(0,new A.aas(),t.N).aV(0,"&")},
 oE(){var s=0,r=A.a8(t.z),q=this,p,o
 var $async$oE=A.a9(function(a,b){if(a===1)return A.a5(b,r)
@@ -67905,7 +67904,7 @@ break
 case 4:throw A.b("Error occurred sending an email")
 case 3:return A.a6(null,r)}})
 return A.a7($async$oE,r)},
-a1k(){A.SE(new A.Sy("snbkrise@gmail.com")).b9(new A.aar(this),t.P)}}
+a1k(){A.SE(new A.Sy("mytryhardapp@gmail.com")).b9(new A.aar(this),t.P)}}
 A.aas.prototype={
 $1(a){return A.t7(B.mT,a.ge2(a),B.K,!1)+"="+A.t7(B.mT,a.gp(a),B.K,!1)},
 $S:385}
